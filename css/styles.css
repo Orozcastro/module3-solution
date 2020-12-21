@@ -1,0 +1,67 @@
+body {
+    background-color: palegoldenrod;
+}
+#header-nav{
+    background-color: rgb(207, 125, 47);
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand {
+    padding-top: 10px;
+  }
+
+  .navbar-brand h1 { /* name */
+    
+    font-family: 'Lora', serif;
+    color: #492405;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-align: left;
+
+  }
+  .navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
+  #menu-categories-title{
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+ 
+  .category-tile{
+      background-color: rgba(228, 142, 182, 0.658);
+      padding: 30px 40px 20px 40px;
+      margin-bottom: 30px;
+      
+  }
+span{
+    font-size: 2em;
+}
+  p{
+      text-align: justify;
+      margin-top: 10px;
+  }
+  .navbar-header button.navbar-toggle{
+    border: 1px solid #331a03;
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+  }
+
+
+  #nav-list {
+    margin-top: 10px;
+    
+}
+  #nav-list a {
+    color: #660c2d;
+    
+  }
+  #nav-list a:hover {
+    background: #ec9c9cb2;
+  }
